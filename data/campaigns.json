@@ -1,0 +1,34 @@
+[
+  {
+    "id": "lagu-bandhu-2025",
+    "name": "Lagu Bandhu — 2025 Campaign",
+    "client": "Lagu Bandhu Jewellers",
+    "year": 2025,
+    "description": "Multi-spot advertising campaign for Lagu Bandhu Jewellers featuring Aarya Ambekar. A series of TVCs and social content showcasing elegance, humor, and craftsmanship.",
+    "poster": "https://img.youtube.com/vi/l2wOFO6zZxk/hqdefault.jpg",
+    "projectIds": [
+      "lagu-bandhu-detective",
+      "lagu-bandhu-diwali",
+      "lagu-bandhu-talking-necklace",
+      "lagu-bandhu-beautiful-trap",
+      "lagu-bandhu-shorts"
+    ],
+    "studioId": "aadmi-productions",
+    "status": "verified"
+  },
+  {
+    "id": "mooi-app-2024",
+    "name": "Mooi App — Digital Campaign",
+    "client": "Mooi App",
+    "year": 2024,
+    "description": "Digital promotional campaign for Mooi — an online salon and spa booking platform. Multiple promotional videos highlighting app features and lifestyle benefits.",
+    "poster": "https://img.youtube.com/vi/NGw8jDXNrpw/hqdefault.jpg",
+    "projectIds": [
+      "mooi-app-promo",
+      "mooi-app-promo-2",
+      "mooi-app-promo-3"
+    ],
+    "studioId": "aadmi-productions",
+    "status": "verified"
+  }
+]

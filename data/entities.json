@@ -1,0 +1,76 @@
+[
+  {
+    "id": "aadmi-productions",
+    "type": "studio",
+    "name": "AADMI Productions",
+    "tagline": "Film. Animation. Color. Stories that matter.",
+    "bio": "A full-service production house specializing in short films, documentaries, music videos, and commercial spots. From concept through final color, we bring together directors, animators, colorists, and producers who care deeply about the work.",
+    "logo": {
+      "color": null,
+      "white": "assets/logo/aadmi-logo.svg",
+      "black": null,
+      "grey": null
+    },
+    "logoOrientations": [],
+    "photo": "assets/logo/aadmi-logo.svg",
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/"
+    },
+    "members": ["siddharth-joshi", "chinmay-sant", "mihir-oak", "shounak-gokhale", "ashwin-ranade"],
+    "status": "verified"
+  },
+  {
+    "id": "seven-marbles-studios",
+    "type": "studio",
+    "name": "7 Marbles Studios",
+    "tagline": "Cinematic storytelling at its finest.",
+    "bio": "Production studio behind the award-winning short film Zameer, featuring Jackie Shroff. Known for high-quality narrative-driven short films.",
+    "logo": {
+      "color": null,
+      "white": null,
+      "black": null,
+      "grey": null
+    },
+    "logoOrientations": [],
+    "photo": "",
+    "socialLinks": {},
+    "members": [],
+    "status": "verified"
+  },
+  {
+    "id": "aatmabodh",
+    "type": "production_house",
+    "name": "Aatmabodh",
+    "tagline": "Exploring psychological themes through cinema.",
+    "bio": "A creative banner dedicated to producing content that explores psychological themes, mental health, and human behavior through the medium of cinema.",
+    "logo": {
+      "color": null,
+      "white": null,
+      "black": null,
+      "grey": null
+    },
+    "logoOrientations": [],
+    "photo": "",
+    "socialLinks": {},
+    "members": ["shounak-gokhale", "siddharth-joshi", "chinmay-sant"],
+    "status": "verified"
+  },
+  {
+    "id": "snovel",
+    "type": "production_house",
+    "name": "Snovel",
+    "tagline": "Audio stories for every generation.",
+    "bio": "An audio-storytelling platform producing Marathi audio stories and animated content for diverse audiences.",
+    "logo": {
+      "color": null,
+      "white": null,
+      "black": null,
+      "grey": null
+    },
+    "logoOrientations": [],
+    "photo": "",
+    "socialLinks": {},
+    "members": [],
+    "status": "verified"
+  }
+]

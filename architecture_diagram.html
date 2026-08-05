@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AADMI Portfolio - Architecture Diagram</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .mermaid {
+      background: #1e1e1e;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+    }
+  </style>
+</head>
+<body>
+  <div class="mermaid">
+    graph TD
+        %% Core Actors
+        U((Visitor / Client))
+        
+        %% Views / Pages
+        Home["home.js<br/>Featured Spotlight & Carousels"]
+        Work["work.js<br/>Category Showcase Grid"]
+        Project["project.js<br/>Project Detail & Player"]
+        DI["di.js<br/>DI / Color Comparison"]
+        Team["artists.js / person.js<br/>Team Showcase"]
+        About["app.js<br/>About AADMI"]
+
+        %% Data Store
+        subgraph Static Data & Assets
+            JSON_Projects[("(data/projects.json)<br/>Projects & Credits")]
+            JSON_People[("(data/people.json)<br/>Team & Bios")]
+            Assets[("(assets/)<br/>Posters & Images")]
+        end
+
+        %% Interactions - Public
+        U -->|Visits| Home
+        U -->|Browses| Work
+        U -->|Views| Project
+        U -->|Compares| DI
+        U -->|Meets| Team
+        U -->|Reads| About
+        
+        %% Data Loading
+        Home -.->|Loads| JSON_Projects
+        Home -.->|Loads| JSON_People
+        Work -.->|Loads| JSON_Projects
+        Project -.->|Loads| JSON_Projects
+        DI -.->|Loads| JSON_Projects
+        Team -.->|Loads| JSON_People
+        Project -.->|Renders| Assets
+
+        %% Styling
+        classDef default fill:#1E1E1E,stroke:#444,stroke-width:1px,color:#fff;
+        classDef db fill:#0e3b2e,stroke:#208561,stroke-width:2px,color:#fff;
+        classDef user fill:#1a1a1a,stroke:#666,stroke-width:1px,color:#ccc,shape:circle;
+        
+        class JSON_Projects,JSON_People,Assets db;
+        class U user;
+  </div>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+  </script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "siddharth-joshi",
+    "profileType": "artist",
+    "name": "Siddharth Joshi",
+    "title": "DI / Animation / VFX / Graphics",
+    "bio": "Expert in the technical aspects of filmmaking, including DI (Digital Intermediate), Animation, VFX, and Graphics. Siddharth is the technical backbone of AADMI, ensuring every project achieves its full visual potential through meticulous color grading, visual effects, and post-production supervision.",
+    "photo": "assets/team/siddharth-joshi.jpg",
+    "affiliations": ["aadmi-productions"],
+    "socialLinks": {
+      "imdb": "https://www.imdb.com/",
+      "instagram": "https://www.instagram.com/"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "chinmay-sant",
+    "profileType": "artist",
+    "name": "Chinmay Sant",
+    "title": "Actor / Director",
+    "bio": "Actor and Director with deep roots in Indian cinema. Lead actor in the National Award-winning film '72 Mile - Ek Pravas', lead in 10+ Marathi films, and experienced First AD/DA for 3 Marathi feature films. Chinmay brings both performance and directorial vision to AADMI's projects.",
+    "photo": "assets/team/chinmay-sant.jpg",
+    "affiliations": ["aadmi-productions"],
+    "socialLinks": {
+      "imdb": "https://www.imdb.com/",
+      "instagram": "https://www.instagram.com/"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "mihir-oak",
+    "profileType": "artist",
+    "name": "Mihir Oak",
+    "title": "Executive Producer",
+    "bio": "Served as Production Manager for 10+ films across Marathi, Hindi, English, and Malayalam languages. Mihir brings extensive cross-industry production experience, ensuring every AADMI project runs on schedule and on budget without compromising creative vision.",
+    "photo": "assets/team/mihir-oak.jpg",
+    "affiliations": ["aadmi-productions"],
+    "socialLinks": {
+      "imdb": "https://www.imdb.com/",
+      "linkedin": "https://www.linkedin.com/"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "shounak-gokhale",
+    "profileType": "artist",
+    "name": "Shounak Gokhale",
+    "title": "Psychologist / Writer",
+    "bio": "Psychologist and Writer who leads AADMI's concept development, ensuring narrative depth and psychological resonance in every story. Shounak's unique combination of psychological insight and creative writing brings an uncommon dimension to the team's storytelling.",
+    "photo": "assets/team/shounak-gokhale.jpg",
+    "affiliations": ["aadmi-productions", "aatmabodh"],
+    "socialLinks": {
+      "instagram": "https://www.instagram.com/"
+    },
+    "status": "verified"
+  },
+  {
+    "id": "ashwin-ranade",
+    "profileType": "artist",
+    "name": "Ashwin Ranade",
+    "title": "Writer / Director",
+    "bio": "Writer and Director with significant feature film credits. Associate Director for the National Award-winning film 'Ekda Kay Zhala' and Assistant Director for the film 'Do Baaraa'. Ashwin brings narrative craft and directorial precision to AADMI's projects.",
+    "photo": "assets/team/ashwin-ranade.jpg",
+    "affiliations": ["aadmi-productions"],
+    "socialLinks": {
+      "imdb": "https://www.imdb.com/",
+      "instagram": "https://www.instagram.com/"
+    },
+    "status": "verified"
+  }
+]

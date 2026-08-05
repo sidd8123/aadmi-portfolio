@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "bhantook",
+    "title": "Bhantook",
+    "year": 2024,
+    "categories": [
+      "documentaries"
+    ],
+    "description": "A documentary exploring untold stories, produced with complete audio and video by AADMI Productions. Selected and showcased on FilmFreeway.",
+    "poster": "assets/posters/bhantook.jpg",
+    "backdrop": "assets/backdrops/bhantook-backdrop.jpg",
+    "thumbnail": "assets/posters/bhantook.jpg",
+    "videoUrl": "https://filmfreeway.com/Bhantook",
+    "externalLink": true,
+    "duration": "",
+    "featured": true,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Executive Producer"
+      }
+    ],
+    "btsImages": [
+      "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?q=80&w=1456&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600865914652-9b24edae986a?q=80&w=1471&auto=format&fit=crop"
+    ],
+    "diComparisons": [
+      { "before": "assets/di/bhantook/before/before_01.jpg", "after": "assets/di/bhantook/after/after_01.jpg" },
+      { "before": "assets/di/bhantook/before/before_02.jpg", "after": "assets/di/bhantook/after/after_02.jpg" },
+      { "before": "assets/di/bhantook/before/before_03.jpg", "after": "assets/di/bhantook/after/after_03.jpg" }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": "assets/titles/bhantook-title.png",
+    "sourceLinks": [
+      "https://filmfreeway.com/Bhantook"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "documentaries",
+      "di",
+      "post-production",
+      "director",
+      "executive-producer"
+    ]
+  },
+  {
+    "id": "promise-sir-promise",
+    "title": "Promise Sir, Promise",
+    "year": 2024,
+    "categories": [
+      "short-films"
+    ],
+    "description": "When your first date comes with unexpected company — meet the voices inside their heads! A comedy short film about overexpectations meeting reality. Ft. Tejas B, Manasi B, Nitish G, Sana K.",
+    "poster": "https://img.youtube.com/vi/b9RcZBPM1IM/hqdefault.jpg",
+    "backdrop": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2025&auto=format&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=400&auto=format&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/b9RcZBPM1IM",
+    "duration": "",
+    "featured": true,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Actor / Director"
+      },
+      {
+        "personId": "shounak-gokhale",
+        "role": "Writer"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=b9RcZBPM1IM"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "short-films",
+      "di",
+      "vfx",
+      "actor",
+      "director",
+      "writer"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "upar-ek",
+    "title": "Upar Ek",
+    "year": 2024,
+    "categories": [
+      "short-films"
+    ],
+    "description": "The game of bad communication — we know why you had the last argument with your loved one. A short film exploring how miscommunication ruins relationships. Ft. Mugdha Godbole & Ojas Marathe.",
+    "poster": "https://img.youtube.com/vi/9jQSLS5Ls8U/hqdefault.jpg",
+    "backdrop": "https://images.unsplash.com/photo-1594908900066-3f47337549d8?q=80&w=2070&auto=format&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1594908900066-3f47337549d8?q=80&w=400&auto=format&fit=crop",
+    "videoUrl": "https://www.youtube.com/embed/9jQSLS5Ls8U",
+    "duration": "",
+    "featured": true,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Actor / Director"
+      },
+      {
+        "personId": "shounak-gokhale",
+        "role": "Writer"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=9jQSLS5Ls8U"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "short-films",
+      "di",
+      "vfx",
+      "actor",
+      "director",
+      "writer"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "kitna-sochega-bro",
+    "title": "Kitna Sochega Bro!",
+    "year": 2023,
+    "categories": [
+      "short-films"
+    ],
+    "description": "Sometimes the worst place to be is your own mind. A short film about overthinking and its impact on daily life. Created under the Aatmabodh banner — a series exploring psychological themes through cinema.",
+    "poster": "https://img.youtube.com/vi/wt-9nM-6U7c/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/wt-9nM-6U7c",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "shounak-gokhale",
+        "role": "Writer / Concept"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=wt-9nM-6U7c"
+    ],
+    "studioId": "aatmabodh",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "short-films",
+      "di",
+      "vfx",
+      "writer",
+      "concept"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "two-short-film",
+    "title": "TWO",
+    "year": 2023,
+    "categories": [
+      "short-films"
+    ],
+    "description": "Sometimes the baggage of emotions you store within yourself can manifest in the ways of negativity and self-blaming. An Aatmabodh production exploring inner conflict. Ft. Chinmay Patwardhan, Roomani Khare, Chinmay Sant.",
+    "poster": "https://img.youtube.com/vi/KfEH9_9U55s/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/KfEH9_9U55s",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Actor"
+      },
+      {
+        "personId": "shounak-gokhale",
+        "role": "Writer / Concept"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=KfEH9_9U55s"
+    ],
+    "studioId": "aatmabodh",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "short-films",
+      "di",
+      "vfx",
+      "actor",
+      "writer",
+      "concept"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "labelling",
+    "title": "Labelling",
+    "year": 2023,
+    "categories": [
+      "short-films"
+    ],
+    "description": "Labelling — the art of judging for eternity. A short film examining how we define and limit people through the labels we assign them. An Aatmabodh production exploring societal conditioning.",
+    "poster": "https://img.youtube.com/vi/mGJVP8IsIbw/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/mGJVP8IsIbw",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "shounak-gokhale",
+        "role": "Writer / Concept"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=mGJVP8IsIbw"
+    ],
+    "studioId": "aatmabodh",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "short-films",
+      "di",
+      "vfx",
+      "writer",
+      "concept"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "zameer",
+    "title": "Zameer",
+    "year": 2024,
+    "categories": [
+      "short-films",
+      "di-color-grade"
+    ],
+    "description": "When questioned about his deceased son, a lonely father decides to drive the media away. An award-winning short film by 7 Marbles Studios featuring Jackie Shroff, Anuja Sathe, and Nath Purandare.",
+    "poster": "https://img.youtube.com/vi/8UMOd6gfEVg/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/8UMOd6gfEVg",
+    "duration": "",
+    "featured": true,
+    "role": "DI, Post Production Supervisor",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production Supervisor"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=8UMOd6gfEVg"
+    ],
+    "studioId": "seven-marbles-studios",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "short-films",
+      "di-color-grade",
+      "di",
+      "post-production-supervisor"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "scdl-ad",
+    "title": "SCDL — Upgrade Your Career",
+    "year": 2024,
+    "categories": [
+      "ads"
+    ],
+    "description": "Television commercial for Symbiosis Centre for Distance Learning (SCDL), promoting their Online PGDM programs backed by 25+ years of excellence in distance and online education.",
+    "poster": "https://img.youtube.com/vi/0ejFRDaIji0/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/0ejFRDaIji0",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=0ejFRDaIji0"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "lagu-bandhu-detective",
+    "title": "Lagu Bandhu — Jewellery Case Solved",
+    "year": 2025,
+    "categories": [
+      "ads"
+    ],
+    "description": "What happens when Aarya steps into detective mode? A fun 30-second TVC for Lagu Bandhu Jewellers featuring Aarya Ambekar, blending mystery with sparkle.",
+    "poster": "https://img.youtube.com/vi/l2wOFO6zZxk/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/l2wOFO6zZxk",
+    "duration": "0:30",
+    "featured": true,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=l2wOFO6zZxk"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "lagu-bandhu-2025",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "director",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "lagu-bandhu-diwali",
+    "title": "Lagu Bandhu — Diwali 2025 TVC",
+    "year": 2025,
+    "categories": [
+      "ads"
+    ],
+    "description": "Festive TVC for Lagu Bandhu Jewellers featuring Aarya Ambekar. Celebrating Navratri & Dussehra with traditions, beauty, and sparkle.",
+    "poster": "https://img.youtube.com/vi/xOxDJzvF8iY/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/xOxDJzvF8iY",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=xOxDJzvF8iY"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "lagu-bandhu-2025",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "director",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "lagu-bandhu-talking-necklace",
+    "title": "Lagu Bandhu — Tale of a Talking Necklace",
+    "year": 2025,
+    "categories": [
+      "ads"
+    ],
+    "description": "An innovative and humorous ad for Lagu Bandhu Jewellers featuring Aarya Ambekar in a funny argument about who's the real showstopper — the jewellery doesn't just shine, it speaks!",
+    "poster": "https://img.youtube.com/vi/zdWu4B7TiDI/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/zdWu4B7TiDI",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=zdWu4B7TiDI"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "lagu-bandhu-2025",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "director",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "lagu-bandhu-beautiful-trap",
+    "title": "Lagu Bandhu — The Most Beautiful Trap",
+    "year": 2025,
+    "categories": [
+      "ads"
+    ],
+    "description": "The most beautiful trap I ever fell for! A luxury jewellery ad for Lagu Bandhu featuring Aarya Ambekar, celebrating elegance and craftsmanship.",
+    "poster": "https://img.youtube.com/vi/9kIctzar3Sk/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/9kIctzar3Sk",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=9kIctzar3Sk"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "lagu-bandhu-2025",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "director",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "lagu-bandhu-shorts",
+    "title": "Lagu Bandhu — Social Reel",
+    "year": 2025,
+    "categories": [
+      "ads"
+    ],
+    "description": "Social media short-form content for Lagu Bandhu Jewellers, optimized for Instagram and YouTube Shorts.",
+    "poster": "https://img.youtube.com/vi/FGl0lSlvf2o/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/FGl0lSlvf2o",
+    "duration": "0:30",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=FGl0lSlvf2o"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "lagu-bandhu-2025",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "mooi-app-promo",
+    "title": "Mooi — Salon & Spa Booking App",
+    "year": 2024,
+    "categories": [
+      "ads"
+    ],
+    "description": "Promotional video for Mooi App — a convenient online salon and spa booking platform. Showcasing the app's features for booking luxury grooming services at your fingertips.",
+    "poster": "https://img.youtube.com/vi/NGw8jDXNrpw/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/NGw8jDXNrpw",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=NGw8jDXNrpw"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "mooi-app-2024",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "mooi-app-promo-2",
+    "title": "Mooi — Your Partner in Grooming",
+    "year": 2024,
+    "categories": [
+      "ads"
+    ],
+    "description": "Second promotional spot for Mooi App, highlighting the ease of booking salon and spa services online.",
+    "poster": "https://img.youtube.com/vi/f54RNegmKGo/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/f54RNegmKGo",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=f54RNegmKGo"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "mooi-app-2024",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "mooi-app-promo-3",
+    "title": "Mooi — Grooming Made Easy",
+    "year": 2024,
+    "categories": [
+      "ads"
+    ],
+    "description": "Third promotional video for the Mooi booking platform, featuring lifestyle shots and app walkthrough.",
+    "poster": "https://img.youtube.com/vi/chTDV7L3mzE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/chTDV7L3mzE",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=chTDV7L3mzE"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": "mooi-app-2024",
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "png-sons-shankar-maharaj",
+    "title": "P.N. Gadgil & Sons — Shankar Maharaj Trailokya Haar",
+    "year": 2024,
+    "categories": [
+      "ads",
+      "di-color-grade"
+    ],
+    "description": "श्री शंकर महाराज त्रैलोक्य हार — A prestigious jewellery showcase for P.N. Gadgil and Sons. DI and color grading work to achieve a sacred, luminous visual tone.",
+    "poster": "https://img.youtube.com/vi/xgJRytohV1E/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/xgJRytohV1E",
+    "duration": "",
+    "featured": false,
+    "role": "DI",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI Colorist"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=xgJRytohV1E"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di-color-grade",
+      "di-colorist"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "blockchain-school",
+    "title": "The Blockchain School",
+    "year": 2023,
+    "categories": [
+      "ads"
+    ],
+    "description": "Promotional video for The Blockchain School, an ed-tech startup offering cutting-edge learning in blockchain technology and related fields.",
+    "poster": "https://img.youtube.com/vi/uCjOWPV_v9c/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/uCjOWPV_v9c",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Audio Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / Post Production"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=uCjOWPV_v9c"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "ads",
+      "di",
+      "post-production",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "jeevachi-savli",
+    "title": "जीवाची सावली (Jeevachi Savli)",
+    "year": 2024,
+    "categories": [
+      "music-videos"
+    ],
+    "description": "A soulful Marathi music video with complete video production by AADMI. A visual journey through emotion and melody.",
+    "poster": "https://img.youtube.com/vi/r2I4oDckZic/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/r2I4oDckZic",
+    "duration": "",
+    "featured": true,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Executive Producer"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=r2I4oDckZic"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "di",
+      "vfx",
+      "director",
+      "executive-producer"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "chintoo-snovel-song",
+    "title": "Chintoo — Snovel Song",
+    "year": 2023,
+    "categories": [
+      "music-videos",
+      "animation"
+    ],
+    "description": "A fun animated song from Snovel's 'Chintukle Goshti' — a vibrant, kid-friendly Marathi audio story series. Complete video production including animation and graphics.",
+    "poster": "https://img.youtube.com/vi/b8sG5Hg_lyM/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/b8sG5Hg_lyM",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "Animation / VFX"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=b8sG5Hg_lyM"
+    ],
+    "studioId": "snovel",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "animation",
+      "vfx"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "abaddon-incarnate-veritas",
+    "title": "Abaddon Incarnate — Veritas",
+    "year": 2023,
+    "categories": [
+      "music-videos"
+    ],
+    "description": "Official music video for Irish death metal/grindcore band Abaddon Incarnate's track 'Veritas', released via Transcending Obscurity Records. Complete video production.",
+    "poster": "https://img.youtube.com/vi/GkCtEAJQeYE/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/GkCtEAJQeYE",
+    "duration": "",
+    "featured": true,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=GkCtEAJQeYE"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "di",
+      "vfx",
+      "director"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "de-addiction-song",
+    "title": "The De-addiction Song",
+    "year": 2023,
+    "categories": [
+      "music-videos"
+    ],
+    "description": "Say NO to Addiction. A musical advocacy piece created for Rotary Club of Poona West and Muktangan Rehabilitation Centre to create awareness about addiction and recovery.",
+    "poster": "https://img.youtube.com/vi/DczeY5Lt20Y/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/DczeY5Lt20Y",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=DczeY5Lt20Y"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "di",
+      "vfx",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "udd-chala",
+    "title": "Udd Chala — Taba Chake",
+    "year": 2023,
+    "categories": [
+      "music-videos",
+      "animation"
+    ],
+    "description": "An animated lyrical music video for Taba Chake's 'Udd Chala' from the album 'Khud Ko Miloon'. Nature-inspired animation bringing the indie folk track to visual life.",
+    "poster": "https://img.youtube.com/vi/xFapqKLq36g/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/xFapqKLq36g",
+    "duration": "",
+    "featured": true,
+    "role": "Animation",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "Animator / VFX"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=xFapqKLq36g"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "animation",
+      "animator",
+      "vfx"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "barbarik",
+    "title": "Barbarik",
+    "year": 2023,
+    "categories": [
+      "music-videos",
+      "di-color-grade"
+    ],
+    "description": "A first-of-its-kind production — a confluence of dance, drama, music, and camera, all telling one story from the great epic of Mahabharat. DI and color grading by AADMI.",
+    "poster": "https://img.youtube.com/vi/T2s42Ow_CU8/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/T2s42Ow_CU8",
+    "duration": "",
+    "featured": false,
+    "role": "DI",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI Colorist"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=T2s42Ow_CU8"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "di-color-grade",
+      "di-colorist"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "he-mahaganadhipa",
+    "title": "हे महागणाधिपा (He Mahaganadhipa)",
+    "year": 2024,
+    "categories": [
+      "music-videos"
+    ],
+    "description": "ॐ गं गणपतये नमः — A devotional music video celebrating Lord Ganesh. Music composed by Abhishek Vatharkar with lead vocals by Harshad Kulkarni. Complete video production by AADMI.",
+    "poster": "https://img.youtube.com/vi/Zt09oiQylnA/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/Zt09oiQylnA",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI / VFX"
+      },
+      {
+        "personId": "chinmay-sant",
+        "role": "Director"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=Zt09oiQylnA"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "di",
+      "vfx",
+      "director"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "mahadev-ai-song",
+    "title": "Mahadev Supremacy — AI Song",
+    "year": 2024,
+    "categories": [
+      "music-videos",
+      "animation"
+    ],
+    "description": "Mahadev Supremacy — a devotional music video blending AI-generated visuals with traditional musical composition. Complete video production by AADMI.",
+    "poster": "https://img.youtube.com/vi/dBrYjPs2IHM/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/dBrYjPs2IHM",
+    "duration": "",
+    "featured": false,
+    "role": "Complete Video",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "Animation / AI / VFX"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=dBrYjPs2IHM"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "animation",
+      "ai",
+      "vfx"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  },
+  {
+    "id": "thamb-na",
+    "title": "थांब ना (Thamb Na)",
+    "year": 2024,
+    "categories": [
+      "music-videos",
+      "di-color-grade"
+    ],
+    "description": "A heartfelt Marathi song capturing the pain of separation and the weight of unspoken emotions. The story follows a woman on the verge of a life-changing decision. Ft. Radhika Bhide, Amey Barve, Ashwini Kasar, Raviraj Kale.",
+    "poster": "https://img.youtube.com/vi/s17H-8lXMp4/hqdefault.jpg",
+    "videoUrl": "https://www.youtube.com/embed/s17H-8lXMp4",
+    "duration": "",
+    "featured": true,
+    "role": "Production and DI",
+    "credits": [
+      {
+        "personId": "siddharth-joshi",
+        "role": "DI Colorist"
+      },
+      {
+        "personId": "mihir-oak",
+        "role": "Production Manager"
+      }
+    ],
+    "status": "verified",
+    "stills": [],
+    "titleImage": null,
+    "sourceLinks": [
+      "https://www.youtube.com/watch?v=s17H-8lXMp4"
+    ],
+    "studioId": "aadmi-productions",
+    "productionHouseId": null,
+    "campaignId": null,
+    "awards": [],
+    "autoTags": [
+      "music-videos",
+      "di-color-grade",
+      "di-colorist",
+      "production-manager"
+    ],
+    "btsImages": [],
+    "diComparisons": []
+  }
+]
