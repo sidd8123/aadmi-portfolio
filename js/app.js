@@ -14,29 +14,6 @@ import { renderCampaign } from './pages/campaign.js';
 import { renderAwards } from './pages/awards.js';
 import { renderSearch } from './pages/search.js';
 
-// ============ THEME MANAGEMENT ============
-function initTheme() {
-  const toggle = document.getElementById('theme-toggle');
-  if (!toggle) return;
-
-  toggle.addEventListener('click', () => {
-    const html = document.documentElement;
-    html.classList.add('theme-transitioning');
-
-    const isCurrentlyLight = html.getAttribute('data-theme') === 'light';
-    if (isCurrentlyLight) {
-      html.setAttribute('data-theme', 'dark');
-      localStorage.setItem('aadmi-theme', 'dark');
-    } else {
-      html.setAttribute('data-theme', 'light');
-      localStorage.setItem('aadmi-theme', 'light');
-    }
-
-    // Remove transition class after animation completes
-    setTimeout(() => html.classList.remove('theme-transitioning'), 400);
-  });
-}
-
 // ============ SCROLL REVEAL ============
 let revealObserver = null;
 
@@ -220,7 +197,6 @@ export function setSpotlightInterval(intervalId) {
 // ============ INITIALIZE ============
 async function init() {
   handleNavScroll();
-  initTheme();
 
   try {
     await loadData();
