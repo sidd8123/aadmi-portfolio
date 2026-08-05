@@ -1,5 +1,4 @@
 // di.js — Bhantook DI Color Grade Before/After Gallery
-import { getProjectById } from '../data.js';
 import { observeReveal } from '../app.js';
 
 const BHANTOOK_PAIRS = [
@@ -21,23 +20,22 @@ const BHANTOOK_PAIRS = [
 
 export function renderDI(container) {
   let slidersHtml = BHANTOOK_PAIRS.map((pair, i) => `
-    <div class="di-compare reveal" style="animation-delay: ${0.08 * (i + 1)}s">
-      <div class="di-compare__wrap" data-idx="${i}">
-        <img class="di-compare__after" src="${pair.after}" alt="After DI" loading="lazy">
-        <div class="di-compare__before" style="--pos: 50%;">
-          <img src="${pair.before}" alt="Before DI" loading="lazy">
-        </div>
-        <div class="di-compare__handle" style="left: 50%;">
-          <div class="di-compare__handle-line"></div>
-          <div class="di-compare__handle-knob">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
-          </div>
-          <div class="di-compare__handle-line"></div>
-        </div>
-        <div class="di-compare__label di-compare__label--before">RAW</div>
-        <div class="di-compare__label di-compare__label--after">GRADED</div>
+    <div class="di-slider reveal" style="--pos: 50%; animation-delay: ${0.05 * (i + 1)}s">
+      <img class="di-slider__after" src="${pair.after}" alt="Graded DI" loading="lazy">
+      <div class="di-slider__before">
+        <img src="${pair.before}" alt="RAW DI" loading="lazy">
       </div>
+      <input type="range" min="0" max="100" value="50" class="di-slider__range"
+             aria-label="Shot ${i + 1} RAW vs GRADED DI Comparison"
+             oninput="this.parentElement.style.setProperty('--pos', this.value + '%')">
+      <div class="di-slider__handle">
+        <div class="di-slider__handle-knob">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+        </div>
+      </div>
+      <div class="di-slider__label di-slider__label--before">RAW</div>
+      <div class="di-slider__label di-slider__label--after">GRADED</div>
     </div>
   `).join('');
 
@@ -46,12 +44,12 @@ export function renderDI(container) {
       <!-- Hero -->
       <section class="di-hero">
         <div class="di-hero__bg">
-          <img src="assets/di/bhantook/after/after_03.jpg" alt="">
+          <img src="assets/di/bhantook/after/after_03.jpg" alt="Bhantook Color Grade">
         </div>
         <div class="di-hero__content">
           <p class="t-label reveal">DI / Color Grade</p>
           <h1 class="di-hero__title reveal">Bhantook</h1>
-          <p class="di-hero__sub reveal">Before & After — 14 Shots</p>
+          <p class="di-hero__sub reveal">Before & After — 14 Shots Showcase</p>
         </div>
       </section>
 
@@ -76,44 +74,41 @@ export function renderDI(container) {
   observeReveal();
   window.scrollTo(0, 0);
 
-  // Initialise all sliders with pointer/touch drag
+  // Setup fallback event listeners for touch/pointer drag
   requestAnimationFrame(() => initSliders());
 }
 
 function initSliders() {
-  document.querySelectorAll('.di-compare__wrap').forEach(wrap => {
-    const before = wrap.querySelector('.di-compare__before');
-    const handle = wrap.querySelector('.di-compare__handle');
-    let dragging = false;
+  document.querySelectorAll('.di-slider').forEach(slider => {
+    const range = slider.querySelector('.di-slider__range');
+    if (!range) return;
 
-    function updatePos(clientX) {
-      const rect = wrap.getBoundingClientRect();
+    // Direct input event update
+    range.addEventListener('input', (e) => {
+      slider.style.setProperty('--pos', e.target.value + '%');
+    });
+
+    // Touch & pointer dragging fallback
+    let isDragging = false;
+    const updateFromPointer = (clientX) => {
+      const rect = slider.getBoundingClientRect();
       let pct = ((clientX - rect.left) / rect.width) * 100;
       pct = Math.max(0, Math.min(100, pct));
-      before.style.setProperty('--pos', pct + '%');
-      handle.style.left = pct + '%';
-    }
+      slider.style.setProperty('--pos', pct + '%');
+      range.value = pct;
+    };
 
-    wrap.addEventListener('pointerdown', (e) => {
-      dragging = true;
-      wrap.setPointerCapture(e.pointerId);
-      updatePos(e.clientX);
+    slider.addEventListener('pointerdown', (e) => {
+      isDragging = true;
+      updateFromPointer(e.clientX);
     });
-    wrap.addEventListener('pointermove', (e) => {
-      if (dragging) updatePos(e.clientX);
-    });
-    wrap.addEventListener('pointerup', () => { dragging = false; });
-    wrap.addEventListener('pointercancel', () => { dragging = false; });
 
-    // Keyboard accessibility
-    wrap.setAttribute('tabindex', '0');
-    wrap.setAttribute('role', 'slider');
-    wrap.setAttribute('aria-label', 'Before and after comparison');
-    wrap.addEventListener('keydown', (e) => {
-      const rect = wrap.getBoundingClientRect();
-      const current = parseFloat(before.style.getPropertyValue('--pos')) || 50;
-      if (e.key === 'ArrowLeft') updatePos(rect.left + (current - 2) / 100 * rect.width);
-      if (e.key === 'ArrowRight') updatePos(rect.left + (current + 2) / 100 * rect.width);
+    slider.addEventListener('pointermove', (e) => {
+      if (isDragging) updateFromPointer(e.clientX);
     });
+
+    const stopDragging = () => { isDragging = false; };
+    slider.addEventListener('pointerup', stopDragging);
+    slider.addEventListener('pointercancel', stopDragging);
   });
 }
